@@ -35,7 +35,7 @@ Kortix is open source, and you can self-host it on a laptop, a VPS, your VPC or 
 - [Kortix vs NVIDIA NemoClaw](docs/kortix-vs-nvidia-nemoclaw.md) sets the new NVIDIA stack on the same axes: which layer each one governs.
 - [FAQ](docs/faq.md) answers the questions buyers ask first.
 
-For a hosted version of this comparison with pricing and orchestration pages, see [opensourceaiagentplatform.com](https://opensourceaiagentplatform.com/). Its GitHub-focused page lists repositories worth studying: [open-source AI agent platform on GitHub](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github.html).
+For a hosted version of this comparison with pricing and orchestration pages, see [opensourceaiagentplatform.com](https://opensourceaiagentplatform.com/). Its GitHub-focused page lists repositories worth studying: [open-source AI agent platform on GitHub](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github).
 
 Get started with open-source Kortix at [kortix.com](https://kortix.com), or read the code at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
