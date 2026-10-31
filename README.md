@@ -1,6 +1,6 @@
 # Comparing open source AI agent platforms
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository compares it with seven open-source and self-hosted AI agent projects on the things that decide a deployment: scope, licence, configuration ownership, model choice, self-hosting and the human review boundary.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository compares it with seven open-source and self-hosted AI agent projects on the things that decide a deployment: scope, licence, configuration ownership, model choice, self-hosting and the human review boundary.
 
 Every competitor fact comes from that project's own GitHub repository, linked below. Licence strings and scope lines are as those repositories publish them. Star counts are approximate as of October 2026 and move over time.
 
