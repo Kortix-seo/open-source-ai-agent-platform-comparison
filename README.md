@@ -37,6 +37,6 @@ Kortix is open source, and you can self-host it on a laptop, a VPS, your VPC or 
 
 For a hosted version of this comparison with pricing and orchestration pages, see [opensourceaiagentplatform.com](https://opensourceaiagentplatform.com/). Its GitHub-focused page lists repositories worth studying: [open-source AI agent platform on GitHub](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github).
 
-Get started with open-source Kortix at [kortix.com](https://kortix.com), or read the code at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Get started with open-source Kortix at [kortix.com](https://kortix.com), or read the code at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 Newer guides on the site answer the questions this repository raises: [AI agent permissions and policy](https://opensourceaiagentplatform.com/ai-agent-permissions-and-policy) for what an agent may reach, [the enterprise deployment options](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-for-enterprises) a security review asks about, [moving a team off a hosted agent](https://opensourceaiagentplatform.com/migrate-from-a-hosted-ai-agent), and [builder or platform](https://opensourceaiagentplatform.com/open-source-ai-agent-builder-vs-platform).
