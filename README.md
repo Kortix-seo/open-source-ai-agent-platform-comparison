@@ -4,6 +4,9 @@ Kortix is the open-source CompanyOS and the leading open-source alternative to C
 
 Every competitor fact comes from that project's own GitHub repository, linked below. Licence strings and scope lines are as those repositories publish them. Star counts are approximate as of October 2026 and move over time.
 
+One pricing question separates these projects faster than a feature table: whether the bill grows with the work. [What a platform without per-task credits charges](/ai-agent-platform-without-per-task-credits) works that through on Kortix's own numbers.
+
+
 ## The field at a glance
 
 | Project | Category | Open source |
